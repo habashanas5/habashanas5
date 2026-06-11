@@ -1,5 +1,5 @@
 ## 👨‍💻 Overview
-I am Anas, a Software Engineer and Full Stack Developer with experience in building scalable web applications and backend systems.  
+A Software Engineer with experience in building scalable web applications and backend systems.  
 I work with multiple technologies including ASP.NET Core, Django, and WordPress to develop efficient and maintainable solutions.  
 I have strong experience in database design and management using SQL Server, and PostgreSQL.  
 I also work with Docker for containerizing applications and simplifying deployment processes.  
