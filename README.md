@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨‍💻 Overview
+I am Anas, a Software Engineer and Full Stack Developer with experience in building scalable web applications and backend systems.  
+I work with multiple technologies including ASP.NET Core, Django, and WordPress to develop efficient and maintainable solutions.  
+I have strong experience in database design and management using SQL Server, and PostgreSQL.  
+I also work with Docker for containerizing applications and simplifying deployment processes.  
+My focus is on writing clean, reliable code and delivering production-ready applications.
 
-<!--
-**habashanas5/habashanas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Information
+- Email: Anas Habash
+- Email: habashanas716@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anas-habash-a0504420b 
